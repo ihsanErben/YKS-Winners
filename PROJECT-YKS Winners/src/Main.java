@@ -40,6 +40,7 @@ public class Main {
             System.out.print("sos: ");
             int sos2 = input.nextInt();
             System.out.println("");
+            
             Sayisal s1 = new Sayisal(name1, mat1, tr1, fen1, sos1);
             Sayisal s2 = new Sayisal(name2, mat2, tr2, fen2, sos2);
 
